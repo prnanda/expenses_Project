@@ -1,8 +1,5 @@
-"""Project - Expense report"""
+"""Project - Expense report
+Feature List:
+1. """
 
-expense_sheet = open("Expenses_2014.xls", 'r')
-
-for line in expense_sheet:
-	print line
-
-expense_sheet.close()
+print "Hello worlds, this is my project repo"
